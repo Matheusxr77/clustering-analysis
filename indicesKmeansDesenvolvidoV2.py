@@ -1,5 +1,5 @@
 # Chamada das bibliotecas
-# import numpy as np
+import numpy as np
 
 from urllib.request import urlopen
 
